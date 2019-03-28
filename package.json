@@ -1,0 +1,24 @@
+{
+  "name": "rn-playground",
+  "version": "1.0.0",
+  "description": "study and test react native components &amp; API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "yarn react-native start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophister/rn-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophister/rn-playground/issues"
+  },
+  "homepage": "https://github.com/sophister/rn-playground#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.59.2"
+  }
+}
